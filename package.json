@@ -1,0 +1,19 @@
+{
+  "name": "zxzxj-goods-card",
+  "version": "1.0.1",
+  "description": "goods-card, 商品卡片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "商品卡片",
+    "card",
+    "goods-card"
+  ],
+  "author": "zxzxjj",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.2.39"
+  }
+}
