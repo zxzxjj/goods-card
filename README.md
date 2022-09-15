@@ -21,4 +21,4 @@ import card  from 'zxzxj-goods-card'
 
 #### 效果
 
-![](Snipaste_2022-09-14_18-59-14.png)
+[使用方法.md](https://github.com/zxzxjj/goods-card/files/9570874/default.md)
